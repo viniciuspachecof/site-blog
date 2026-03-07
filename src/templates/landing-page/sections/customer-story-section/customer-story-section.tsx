@@ -7,7 +7,7 @@ const customerStory = [
     author: {
       name: 'Annette Bones',
       role: 'CEO na Anne Corp',
-      avatar: '/customer-01.svg',
+      avatar: '/customer-01.png',
     },
   },
   {
@@ -16,7 +16,7 @@ const customerStory = [
     author: {
       name: 'Jacob Jones',
       role: 'CEO na JJ Org',
-      avatar: '/customer-02.svg',
+      avatar: '/customer-02.png',
     },
   },
 ];
