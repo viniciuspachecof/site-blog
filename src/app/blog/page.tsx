@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'Dicas e estratégias para impulsionar seu negócio',
   robots: 'index, follow',
   openGraph: {
-    title: 'Site.Set',
+    title: 'Blog',
     description: 'Dicas e estratégias para impulsionar seu negócio',
     url: 'https://site-blog-psi.vercel.app/og-image.jpg',
     siteName: 'Site.Set',
